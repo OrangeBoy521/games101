@@ -1,0 +1,3 @@
+/media/sf_games101/pa0/build/CMakeFiles/rebuild_cache.dir
+/media/sf_games101/pa0/build/CMakeFiles/Transformation.dir
+/media/sf_games101/pa0/build/CMakeFiles/edit_cache.dir
